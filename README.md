@@ -1,4 +1,4 @@
-# 작품 제목
+# MOM (Map Of Mobile)
 
 광운대학교 로봇학부 학술소모임 **'BARAM'** 20년도 후반기 Toy Project에 대한 소스코드입니다.  
 
