@@ -59,7 +59,7 @@
     - 수정하기 버튼을 통한 액티비티 1로의 이동 구현
 
 ## System Architecture
-<p align="center"><img src=" " width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760787-6d59b71a-8a81-4e05-afb8-b9f92851bde3.jpg" width="600px"></p>  
 
 
 ### Project scenario
@@ -87,4 +87,12 @@
 
 ## 프로젝트 결과
 
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760586-13ef32a1-f5dd-4773-bea1-1d8c5e6bf89e.JPG" width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760865-53f1afbe-3b25-44fa-859f-9766c5ccbc98.JPG" width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760884-5b7747f6-cbc3-4bfc-a451-14e6651f9120.JPG" width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760892-9e7118d7-493a-49aa-8f7d-2559b59fdc5b.JPG" width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760904-443ce370-5491-4324-8980-695fba38c492.JPG" width="600px"></p>  
 
+
+
+시연 영상을 mp4 파일로 첨부해 두었습니다.
