@@ -87,11 +87,15 @@
 
 ## 프로젝트 결과
 
-<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760586-13ef32a1-f5dd-4773-bea1-1d8c5e6bf89e.JPG" width="300px"></p>기본 화면입니다.
-<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760865-53f1afbe-3b25-44fa-859f-9766c5ccbc98.JPG" width="300px"></p>  해당 주차장의 예상 요금을 DB 정보를 이용해 예상 요금을 계산하는 화면입니다.
-<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760884-5b7747f6-cbc3-4bfc-a451-14e6651f9120.JPG" width="300px"></p>  주차 시간 측정 화면입니다. 이후 주차시간을 가지고 해당 주차장의 예상 요금을 DB 정보를 이용해 안내합니다.
-<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760892-9e7118d7-493a-49aa-8f7d-2559b59fdc5b.JPG" width="300px"></p>  주차장 후기 정보를 알려주는 화면입니다. DB를 이용해 후기를 저장하고 출력합니다. 
-<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760904-443ce370-5491-4324-8980-695fba38c492.JPG" width="300px"></p>  혜택 탭을 누르면 해당 홈페이지로 이동하게 됩니다.
+<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760586-13ef32a1-f5dd-4773-bea1-1d8c5e6bf89e.JPG" width="300px"></p>  기본 화면
+<br><br>
+<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760865-53f1afbe-3b25-44fa-859f-9766c5ccbc98.JPG" width="300px"></p>  해당 주차장의 예상 요금을 DB 정보를 이용해 예상 요금을 계산
+<br><br>
+<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760884-5b7747f6-cbc3-4bfc-a451-14e6651f9120.JPG" width="300px"></p>  주차 시간 측정 화면, 이후 주차시간을 가지고 해당 주차장의 예상 요금을 DB 정보를 이용해 안내
+<br><br>
+<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760892-9e7118d7-493a-49aa-8f7d-2559b59fdc5b.JPG" width="300px"></p>  주차장 후기 정보를 알려주는 화면, DB를 이용해 후기를 저장하고 출력
+<br><br>
+<p align="left"><img src="https://user-images.githubusercontent.com/69707792/126760904-443ce370-5491-4324-8980-695fba38c492.JPG" width="300px"></p>  혜택 탭을 누르면 해당 홈페이지로 이동
 
 
 
