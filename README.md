@@ -87,11 +87,11 @@
 
 ## 프로젝트 결과
 
-<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760586-13ef32a1-f5dd-4773-bea1-1d8c5e6bf89e.JPG" width="600px"></p>  
-<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760865-53f1afbe-3b25-44fa-859f-9766c5ccbc98.JPG" width="600px"></p>  
-<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760884-5b7747f6-cbc3-4bfc-a451-14e6651f9120.JPG" width="600px"></p>  
-<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760892-9e7118d7-493a-49aa-8f7d-2559b59fdc5b.JPG" width="600px"></p>  
-<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760904-443ce370-5491-4324-8980-695fba38c492.JPG" width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760586-13ef32a1-f5dd-4773-bea1-1d8c5e6bf89e.JPG" width="300px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760865-53f1afbe-3b25-44fa-859f-9766c5ccbc98.JPG" width="300px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760884-5b7747f6-cbc3-4bfc-a451-14e6651f9120.JPG" width="300px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760892-9e7118d7-493a-49aa-8f7d-2559b59fdc5b.JPG" width="300px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/69707792/126760904-443ce370-5491-4324-8980-695fba38c492.JPG" width="300px"></p>  
 
 
 
